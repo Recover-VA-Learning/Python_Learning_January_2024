@@ -4,6 +4,7 @@
 - `git clone [repository_url]`: Clone a remote repository to your local machine.
 - `git push`: pushes changes to remote from local
 - `git pull`: pulls changes from the remote to local
+- `git commit`: adds a message for commit
 
 > VS Code has a built-in UI for Git. You can access it by clicking on the Git icon in the left sidebar.
 
