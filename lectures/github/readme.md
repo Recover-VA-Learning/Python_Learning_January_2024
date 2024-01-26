@@ -2,8 +2,8 @@
 
 ### MOST USED COMMANDS
 - `git clone [repository_url]`: Clone a remote repository to your local machine.
-- `git push`
-- `git pull`
+- `git push`: pushes changes to remote from local
+- `git pull`: pulls changes from the remote to local
 
 > VS Code has a built-in UI for Git. You can access it by clicking on the Git icon in the left sidebar.
 
